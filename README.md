@@ -32,4 +32,8 @@ Já tenho bagagem em lógica, C e Java vinda da automação, mas decidi revisar 
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=schurtverreschi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=schurtverreschi&layout=compact&langs_count=6&theme=algolia"/>
+  <img height="60em" src="https://www.codewars.com/users/schurtverreschi/badges/micro"/>
 </p>
+
+
+
