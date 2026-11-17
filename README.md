@@ -17,25 +17,19 @@ Já tenho bagagem em lógica, C e Java vinda da automação, mas decidi revisar 
 
 ### 🛠️ Linguagens e Ferramentas
 
-[![Linguagens e Ferramentas](https://skillicons.dev/icons?i=c,java,git,github&theme=dark)](https://skillicons.dev)
+[![Linguagens e Ferramentas](https://skillicons.dev/icons?i=python,c,java,git,github&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### 🌱 Estudando no momento
 
-[![Estudando](https://skillicons.dev/icons?i=python,linux&theme=dark)](https://skillicons.dev)
+[![Estudando](https://skillicons.dev/icons?i=python,django,linux&theme=dark)](https://skillicons.dev)
 
 ---
 
 📊 **Estatísticas no GitHub:**
 
 <div align="center">
-  <img width="480" src="https://github-readme-stats-eight-theta.vercel.app/api?username=schurtverreschi&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img width="345" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=schurtverreschi&theme=nord" alt="Linguagens Mais Usadas" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="450" src="https://github.r2v.ch/codewars?user=schurtverreschi&theme=nord" alt="Codewars Stats" />
+  <img width="480" src="https://github-stats-extended.vercel.app/api?username=schurtverreschi&show_icons=true&theme=nord&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img width="365" src="https://github-stats-extended.vercel.app/api/top-langs/?username=schurtverreschi&theme=nord" alt="Linguagens Mais Usadas" />
 </div>
